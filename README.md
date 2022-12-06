@@ -1,7 +1,7 @@
 ## merlin-user 12 SP1A.210812.016 V13.0.2.0.SJOMIXM release-keys
 - Manufacturer: xiaomi
 - Platform: mt6768
-- Codename: merlinnfc
+- Codename: merlin
 - Brand: Redmi
 - Flavor: merlin-user
 - Release Version: 12
@@ -12,10 +12,10 @@
 - A/B Device: false
 - Locale: en-GB
 - Screen Density: 440
-- Fingerprint: Redmi/merlinnfc_global/merlinnfc:12/SP1A.210812.016/V13.0.2.0.SJOMIXM:user/release-keys
+- Fingerprint: Redmi/merlin/merlin:12/SP1A.210812.016/V13.0.2.0.SJOMIXM:user/release-keys
 - OTA version: 
 - Branch: merlin-user-12-SP1A.210812.016-V13.0.2.0.SJOMIXM-release-keys
-- Repo: redmi_merlinnfc_dump
+- Repo: xiaomi-merlin-dumps
 
 
 >Dumped by [Phoenix Firmware Dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
